@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9212bb09.css",
+    "main.css": "/static/css/main.7a9c4431.css",
     "main.js": "/static/js/main.04093ed8.js",
     "static/js/787.799cb880.chunk.js": "/static/js/787.799cb880.chunk.js",
     "static/media/(A_Place_Close_to_the_Night_Sky)_Rei_Sakuma_Chibi.webp": "/static/media/(A_Place_Close_to_the_Night_Sky)_Rei_Sakuma_Chibi.ef43339c7ebe35315dfe.webp",
@@ -31,12 +31,12 @@
     "static/media/SVGRei.svg": "/static/media/SVGRei.133bfc9ffff79ae1135590bdb4f3058f.svg",
     "static/media/SVGKanata.svg": "/static/media/SVGKanata.530aee2423f26c2cebff4ec4e3a0387a.svg",
     "index.html": "/index.html",
-    "main.9212bb09.css.map": "/static/css/main.9212bb09.css.map",
+    "main.7a9c4431.css.map": "/static/css/main.7a9c4431.css.map",
     "main.04093ed8.js.map": "/static/js/main.04093ed8.js.map",
     "787.799cb880.chunk.js.map": "/static/js/787.799cb880.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9212bb09.css",
+    "static/css/main.7a9c4431.css",
     "static/js/main.04093ed8.js"
   ]
 }
