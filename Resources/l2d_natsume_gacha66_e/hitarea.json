@@ -1,0 +1,14 @@
+{
+	"name":"hitarea",
+	"hit_areas":
+	{
+		"hair":"D_REF.PT_HAIR_FRONT,D_REF.PT_HAIR_FRONT1",
+		"face":"D_REF.PT_FACE,D_REF.PT_FACE1",
+		"right_upper_arm":"D_REF.PT_ARM_R1,D_REF.PT_ARM_R3",
+		"right_fore_arm":"D_REF.PT_ARM_R2,D_REF.PT_ARM_R4",
+	"left_upper_arm":"D_REF.PT_ARM_L1,D_REF.PT_ARM_L3,D_REF.PT_ARM_L21,D_REF.PT_ARM_L22,D_REF.PT_ARM_L23,D_REF.PT_ARM_L24",
+	"left_fore_arm":"D_REF.PT_ARM_L2,D_REF.PT_ARM_L4,D_REF.PT_ARM_L21,D_REF.PT_ARM_L22,D_REF.PT_ARM_L23,D_REF.PT_ARM_L24",
+		"chest":"D_REF.PT_BODY_CHEST,D_REF.PT_BODY_CHEST1",
+		"stomach":"D_REF.PT_BODY_STOMACH,D_REF.PT_BODY_CHEST1"
+	}
+}

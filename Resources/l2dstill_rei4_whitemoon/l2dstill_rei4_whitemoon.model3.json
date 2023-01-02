@@ -1,0 +1,30 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2dstill_rei4_whitemoon.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "l2dstill_rei4_whitemoon.physics3.json",
+    "Motions": {
+      "Idle": [
+        {
+          "File": "motions/idle.motion3.json"
+        },
+        {
+          "File": "motions/main_last.motion3.json"
+        },
+        {
+          "File": "motions/main_first.motion3.json"
+        }
+      ],
+      "MainMotion":[
+      {
+        "File": "motions/main.motion3.json"
+      }
+    ]
+    }
+  },
+  "Groups": []
+}

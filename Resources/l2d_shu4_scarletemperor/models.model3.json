@@ -1,0 +1,476 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "models.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "models.physics3.json",
+    "Motions": {
+      "motion": [
+        {
+          "File": "motions/aku_1.motion3.json"
+        },
+        {
+          "File": "motions/aku_1a.motion3.json"
+        },
+        {
+          "File": "motions/am_1.motion3.json"
+        },
+        {
+          "File": "motions/am_1a.motion3.json"
+        },
+        {
+          "File": "motions/am_1_1.motion3.json"
+        },
+        {
+          "File": "motions/am_1_2.motion3.json"
+        },
+        {
+          "File": "motions/am_2.motion3.json"
+        },
+        {
+          "File": "motions/am_2a.motion3.json"
+        },
+        {
+          "File": "motions/am_2_1.motion3.json"
+        },
+        {
+          "File": "motions/am_2_1a.motion3.json"
+        },
+        {
+          "File": "motions/am_2_2.motion3.json"
+        },
+        {
+          "File": "motions/am_3.motion3.json"
+        },
+        {
+          "File": "motions/am_4.motion3.json"
+        },
+        {
+          "File": "motions/an_1.motion3.json"
+        },
+        {
+          "File": "motions/an_2.motion3.json"
+        },
+        {
+          "File": "motions/an_3.motion3.json"
+        },
+        {
+          "File": "motions/an_3_1.motion3.json"
+        },
+        {
+          "File": "motions/an_4.motion3.json"
+        },
+        {
+          "File": "motions/an_5.motion3.json"
+        },
+        {
+          "File": "motions/an_6.motion3.json"
+        },
+        {
+          "File": "motions/an_7.motion3.json"
+        },
+        {
+          "File": "motions/cr_1.motion3.json"
+        },
+        {
+          "File": "motions/cr_2.motion3.json"
+        },
+        {
+          "File": "motions/cr_2_1.motion3.json"
+        },
+        {
+          "File": "motions/cr_3.motion3.json"
+        },
+        {
+          "File": "motions/cr_4.motion3.json"
+        },
+        {
+          "File": "motions/do_1.motion3.json"
+        },
+        {
+          "File": "motions/do_2.motion3.json"
+        },
+        {
+          "File": "motions/do_3.motion3.json"
+        },
+        {
+          "File": "motions/ehe_1.motion3.json"
+        },
+        {
+          "File": "motions/ehe_2.motion3.json"
+        },
+        {
+          "File": "motions/em_1.motion3.json"
+        },
+        {
+          "File": "motions/em_1a.motion3.json"
+        },
+        {
+          "File": "motions/em_1_1.motion3.json"
+        },
+        {
+          "File": "motions/em_1_1a.motion3.json"
+        },
+        {
+          "File": "motions/em_2.motion3.json"
+        },
+        {
+          "File": "motions/em_2a.motion3.json"
+        },
+        {
+          "File": "motions/em_3.motion3.json"
+        },
+        {
+          "File": "motions/em_4.motion3.json"
+        },
+        {
+          "File": "motions/em_s1.motion3.json"
+        },
+        {
+          "File": "motions/em_s1_1.motion3.json"
+        },
+        {
+          "File": "motions/em_s2.motion3.json"
+        },
+        {
+          "File": "motions/em_s2_1.motion3.json"
+        },
+        {
+          "File": "motions/em_s3.motion3.json"
+        },
+        {
+          "File": "motions/em_s4.motion3.json"
+        },
+        {
+          "File": "motions/ex_1.motion3.json"
+        },
+        {
+          "File": "motions/ex_2.motion3.json"
+        },
+        {
+          "File": "motions/gimo_1.motion3.json"
+        },
+        {
+          "File": "motions/gu_1.motion3.json"
+        },
+        {
+          "File": "motions/gu_2.motion3.json"
+        },
+        {
+          "File": "motions/hira_1.motion3.json"
+        },
+        {
+          "File": "motions/idl_1.motion3.json"
+        },
+        {
+          "File": "motions/idl_1_2.motion3.json"
+        },
+        {
+          "File": "motions/idl_2.motion3.json"
+        },
+        {
+          "File": "motions/idl_3.motion3.json"
+        },
+        {
+          "File": "motions/idl_3_1.motion3.json"
+        },
+        {
+          "File": "motions/idl_4.motion3.json"
+        },
+        {
+          "File": "motions/idl_l1.motion3.json"
+        },
+        {
+          "File": "motions/idl_l2.motion3.json"
+        },
+        {
+          "File": "motions/idl_l3.motion3.json"
+        },
+        {
+          "File": "motions/idl_l4.motion3.json"
+        },
+        {
+          "File": "motions/idl_l5.motion3.json"
+        },
+        {
+          "File": "motions/idl_l6.motion3.json"
+        },
+        {
+          "File": "motions/idl_l7.motion3.json"
+        },
+        {
+          "File": "motions/idl_r1.motion3.json"
+        },
+        {
+          "File": "motions/idl_r2.motion3.json"
+        },
+        {
+          "File": "motions/idl_r3.motion3.json"
+        },
+        {
+          "File": "motions/idl_r4.motion3.json"
+        },
+        {
+          "File": "motions/idl_r5.motion3.json"
+        },
+        {
+          "File": "motions/idl_r6.motion3.json"
+        },
+        {
+          "File": "motions/idl_r7.motion3.json"
+        },
+        {
+          "File": "motions/iya_2.motion3.json"
+        },
+        {
+          "File": "motions/jo_1.motion3.json"
+        },
+        {
+          "File": "motions/jo_1_1.motion3.json"
+        },
+        {
+          "File": "motions/jo_2.motion3.json"
+        },
+        {
+          "File": "motions/jo_2_1.motion3.json"
+        },
+        {
+          "File": "motions/jo_2_1a.motion3.json"
+        },
+        {
+          "File": "motions/jo_2_2.motion3.json"
+        },
+        {
+          "File": "motions/jo_2_3.motion3.json"
+        },
+        {
+          "File": "motions/jo_2_4.motion3.json"
+        },
+        {
+          "File": "motions/jo_3.motion3.json"
+        },
+        {
+          "File": "motions/jo_3_1.motion3.json"
+        },
+        {
+          "File": "motions/jo_3_2.motion3.json"
+        },
+        {
+          "File": "motions/jo_3_2a.motion3.json"
+        },
+        {
+          "File": "motions/jo_4.motion3.json"
+        },
+        {
+          "File": "motions/jo_5.motion3.json"
+        },
+        {
+          "File": "motions/jo_6.motion3.json"
+        },
+        {
+          "File": "motions/jo_6_1.motion3.json"
+        },
+        {
+          "File": "motions/kata_1.motion3.json"
+        },
+        {
+          "File": "motions/kata_2.motion3.json"
+        },
+        {
+          "File": "motions/nade_1.motion3.json"
+        },
+        {
+          "File": "motions/nade_2.motion3.json"
+        },
+        {
+          "File": "motions/nade_3.motion3.json"
+        },
+        {
+          "File": "motions/niya_1.motion3.json"
+        },
+        {
+          "File": "motions/niya_1a.motion3.json"
+        },
+        {
+          "File": "motions/niya_2.motion3.json"
+        },
+        {
+          "File": "motions/niya_2a.motion3.json"
+        },
+        {
+          "File": "motions/nor_1.motion3.json"
+        },
+        {
+          "File": "motions/nor_2.motion3.json"
+        },
+        {
+          "File": "motions/nor_2_1.motion3.json"
+        },
+        {
+          "File": "motions/nor_2_2.motion3.json"
+        },
+        {
+          "File": "motions/no_1.motion3.json"
+        },
+        {
+          "File": "motions/no_2.motion3.json"
+        },
+        {
+          "File": "motions/no_3.motion3.json"
+        },
+        {
+          "File": "motions/no_4.motion3.json"
+        },
+        {
+          "File": "motions/puka_1.motion3.json"
+        },
+        {
+          "File": "motions/sal_1.motion3.json"
+        },
+        {
+          "File": "motions/sal_2.motion3.json"
+        },
+        {
+          "File": "motions/sal_3.motion3.json"
+        },
+        {
+          "File": "motions/sa_1.motion3.json"
+        },
+        {
+          "File": "motions/sa_1_1.motion3.json"
+        },
+        {
+          "File": "motions/sa_2.motion3.json"
+        },
+        {
+          "File": "motions/sa_3.motion3.json"
+        },
+        {
+          "File": "motions/sa_4.motion3.json"
+        },
+        {
+          "File": "motions/sa_5.motion3.json"
+        },
+        {
+          "File": "motions/sa_5a.motion3.json"
+        },
+        {
+          "File": "motions/sa_s2.motion3.json"
+        },
+        {
+          "File": "motions/sl_1.motion3.json"
+        },
+        {
+          "File": "motions/sl_2.motion3.json"
+        },
+        {
+          "File": "motions/spe_1.motion3.json"
+        },
+        {
+          "File": "motions/su_1.motion3.json"
+        },
+        {
+          "File": "motions/su_1_1.motion3.json"
+        },
+        {
+          "File": "motions/su_2.motion3.json"
+        },
+        {
+          "File": "motions/su_2_1.motion3.json"
+        },
+        {
+          "File": "motions/su_2_1a.motion3.json"
+        },
+        {
+          "File": "motions/su_3.motion3.json"
+        },
+        {
+          "File": "motions/su_3a.motion3.json"
+        },
+        {
+          "File": "motions/su_4.motion3.json"
+        },
+        {
+          "File": "motions/wi_1.motion3.json"
+        },
+        {
+          "File": "motions/yare_1.motion3.json"
+        },
+        {
+          "File": "motions/ye_1.motion3.json"
+        },
+        {
+          "File": "motions/ye_2.motion3.json"
+        },
+        {
+          "File": "motions/ye_3.motion3.json"
+        }
+      ],
+      "idle": [
+        {
+          "File": "motions/idl_1.motion3.json"
+        },
+        {
+          "File": "motions/idl_1_2.motion3.json"
+        },
+        {
+          "File": "motions/idl_2.motion3.json"
+        },
+        {
+          "File": "motions/idl_3.motion3.json"
+        },
+        {
+          "File": "motions/idl_3_1.motion3.json"
+        },
+        {
+          "File": "motions/idl_4.motion3.json"
+        },
+        {
+          "File": "motions/idl_l1.motion3.json"
+        },
+        {
+          "File": "motions/idl_l2.motion3.json"
+        },
+        {
+          "File": "motions/idl_l3.motion3.json"
+        },
+        {
+          "File": "motions/idl_l4.motion3.json"
+        },
+        {
+          "File": "motions/idl_l5.motion3.json"
+        },
+        {
+          "File": "motions/idl_l6.motion3.json"
+        },
+        {
+          "File": "motions/idl_l7.motion3.json"
+        },
+        {
+          "File": "motions/idl_r1.motion3.json"
+        },
+        {
+          "File": "motions/idl_r2.motion3.json"
+        },
+        {
+          "File": "motions/idl_r3.motion3.json"
+        },
+        {
+          "File": "motions/idl_r4.motion3.json"
+        },
+        {
+          "File": "motions/idl_r5.motion3.json"
+        },
+        {
+          "File": "motions/idl_r6.motion3.json"
+        },
+        {
+          "File": "motions/idl_r7.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

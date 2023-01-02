@@ -1,0 +1,38 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "l2dstill_wataru4_2ndanniversary.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Motions": [
+        {
+          "File": "motions/motion_special_90056_2.motion3.json"
+        },
+        {
+          "File": "motions/motion_special_90056_3.motion3.json"
+        },
+        {
+          "File": "motions/motion_special_90056_1.motion3.json"
+        }
+      ],
+      "Idle": [
+        {
+          "File": "motions/idle_head.motion3.json"
+        },
+        {
+          "File": "motions/idle.motion3.json"
+        }
+      ],
+      "MainMotion":[        
+        {
+        "File": "motions/motion_special_max_90056.motion3.json"
+        }
+    ]
+    }
+  },
+  "Groups": []
+}

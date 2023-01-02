@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9212bb09.css",
+    "main.js": "/static/js/main.04093ed8.js",
+    "static/js/787.799cb880.chunk.js": "/static/js/787.799cb880.chunk.js",
+    "static/media/(A_Place_Close_to_the_Night_Sky)_Rei_Sakuma_Chibi.webp": "/static/media/(A_Place_Close_to_the_Night_Sky)_Rei_Sakuma_Chibi.ef43339c7ebe35315dfe.webp",
+    "static/media/mission_chara_474.webp": "/static/media/mission_chara_474.fa23bb0b40d6bf64afe7.webp",
+    "static/media/(Unbridled_Existence)_Wataru_Hibiki_Chibi.webp": "/static/media/(Unbridled_Existence)_Wataru_Hibiki_Chibi.b33cc433763c833053c4.webp",
+    "static/media/(Singing_with_the_Fishes)_Kanata_Shinkai_Chibi.webp": "/static/media/(Singing_with_the_Fishes)_Kanata_Shinkai_Chibi.69184cd85285ba1398d8.webp",
+    "static/media/(Liar_Game)_Natsume_Sakasaki_Chibi.webp": "/static/media/(Liar_Game)_Natsume_Sakasaki_Chibi.b0a04032fbbb02be2743.webp",
+    "static/media/(Uncompromisable_Outfit)_Shu_Itsuki_Chibi.webp": "/static/media/(Uncompromisable_Outfit)_Shu_Itsuki_Chibi.be2c8b01e70df1397bc0.webp",
+    "static/media/(Jewel_Ruby)_Natsume_Sakasaki_Chibi.webp": "/static/media/(Jewel_Ruby)_Natsume_Sakasaki_Chibi.0f3e8140720330ac1dcc.webp",
+    "static/media/vo_rei_bm_skill_3.mp3": "/static/media/vo_rei_bm_skill_3.8c6531268dd67d240dd8.mp3",
+    "static/media/vo_wataru_emo_general_13.mp3": "/static/media/vo_wataru_emo_general_13.17904f3643383d1e81db.mp3",
+    "static/media/vo_natsume_bm_skill_3.mp3": "/static/media/vo_natsume_bm_skill_3.2669aa2fb03bfce7fb75.mp3",
+    "static/media/UNDEAD_ES_Logo.png": "/static/media/UNDEAD_ES_Logo.10afd46dcd601781a84c.png",
+    "static/media/vo_kanata_bm_skill_1.mp3": "/static/media/vo_kanata_bm_skill_1.19564bf62cb27be11734.mp3",
+    "static/media/Fine_ES_Logo.png": "/static/media/Fine_ES_Logo.c52e4cb526baaf839bd7.png",
+    "static/media/Valkyrie_ES_Logo.png": "/static/media/Valkyrie_ES_Logo.5bd4e6667be7becfef42.png",
+    "static/media/vo_shu_bm_combo_3.mp3": "/static/media/vo_shu_bm_combo_3.fc7f4ffd9ae512ca93b3.mp3",
+    "static/media/RYUSEITAI_ES_Logo.png": "/static/media/RYUSEITAI_ES_Logo.36c4ca4752fecea87a66.png",
+    "static/media/Switch_ES_Logo.png": "/static/media/Switch_ES_Logo.918c8a58bb911e0a791b.png",
+    "static/media/wataru_head.png": "/static/media/wataru_head.daa73d94095e56248ea0.png",
+    "static/media/rei_head.png": "/static/media/rei_head.eaf9685078e61651d956.png",
+    "static/media/natsume_head.png": "/static/media/natsume_head.2b80e8808741ede810f2.png",
+    "static/media/kanata_head.png": "/static/media/kanata_head.10f1b5b517c3386eb0ca.png",
+    "static/media/shu_head.png": "/static/media/shu_head.deba605db1df51672b24.png",
+    "static/media/SVGShu.svg": "/static/media/SVGShu.f48c780c3e0744b56d2276b4e4099c8d.svg",
+    "static/media/SVGWataru.svg": "/static/media/SVGWataru.0640a5f73a11db43c4a799bb84f1866e.svg",
+    "static/media/SVGNatsume.svg": "/static/media/SVGNatsume.231a5a46d7733191919b030a070c3054.svg",
+    "static/media/SVGRei.svg": "/static/media/SVGRei.133bfc9ffff79ae1135590bdb4f3058f.svg",
+    "static/media/SVGKanata.svg": "/static/media/SVGKanata.530aee2423f26c2cebff4ec4e3a0387a.svg",
+    "index.html": "/index.html",
+    "main.9212bb09.css.map": "/static/css/main.9212bb09.css.map",
+    "main.04093ed8.js.map": "/static/js/main.04093ed8.js.map",
+    "787.799cb880.chunk.js.map": "/static/js/787.799cb880.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9212bb09.css",
+    "static/js/main.04093ed8.js"
+  ]
+}
